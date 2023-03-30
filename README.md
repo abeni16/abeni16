@@ -8,14 +8,14 @@
  </div>
  
  <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=bernabasy&color=dc143c&style=for-the-badge" alt="indiecodermm" />
-<a href="https://github.com/bernabasy?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bernabasy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
- <a href="https://github.com/bernabasy?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bernabasy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=abeni16&color=dc143c&style=for-the-badge" alt="indiecodermm" />
+<a href="https://github.com/bernabasy?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abeni16?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+ <a href="https://github.com/abeni16?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abeni16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 About me <br/>
-I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
+I'm Abenezer Asefa. A Full-Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
 
-🌱 I’m currently learning  Ruby, React, Redux, API, Webpack, ES6, JavaScript, PostgreSQL CSS, HTML.<br/>
+🌱 I’m currently learning  Nodejs, React,ReactNative, Redux, API, Webpack, ES6, JavaScript, mysql CSS, HTML.<br/>
 ⚡ Fun fact I am also an Animation maker.
 <p align="center">Connect with me</p>
 <div align="center">
@@ -43,8 +43,8 @@ I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an onl
 
 | | |
 |:---:|:---:|
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=bernabasy&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=bernabasy&show_icons=true&locale=en&layout=compact&theme=radical) |
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernabasy&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=bernabasy&show_icons=true&theme=radical) |  
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni16&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=abeni16&show_icons=true&locale=en&layout=compact&theme=radical) |
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abeni16&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=abeni16&show_icons=true&theme=radical) |  
 
 <!--
-**bernabasy/bernabasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abeni16/abeni16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
