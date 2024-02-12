@@ -13,9 +13,9 @@
  <a href="https://github.com/abeni16?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abeni16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 About me <br/>
-I'm Abenezer Asefa. A Full-Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
+I'm Abenezer Asefa. A Full-Stack Developer.
 
-🌱 I’m currently learning  Nodejs, React,ReactNative, Redux, API, Webpack, ES6, JavaScript, mysql CSS, HTML.<br/>
+🌱 I’m Experinced in  Nodejs, React,ReactNative, Redux, API, Webpack, ES6, JavaScript, mysql CSS, HTML.<br/>
 ⚡ Fun fact I am also an Animation maker.
 <p align="center">Connect with me</p>
 <div align="center">
