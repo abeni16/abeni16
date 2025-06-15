@@ -23,16 +23,6 @@ I'm Abenezer Asefa. A Full-Stack Developer.
 🌱 I’m experienced in **Node.js**, **React**, **React Native**, **Next.js**, **Redux**, **API Integration**, **Webpack**, **ES6**, **JavaScript**, **MySQL**, **CSS**, and **HTML**.  
 ⚡ Fun fact: I am also an animation maker.
 
-<p align="center">Connect with me</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/bernabas-yosef-74b571186/" target="_blank">
-    <img src="assets/LinkedIn.svg" alt="LinkedIn" width="10%" height="25px"/>
-  </a>
-  <a href="https://twitter.com/bernabasjosef" target="_blank">
-    <img src="assets/Twitter.svg" alt="Twitter" width="10%" height="25px"/>
-  </a>
-</div>
-
 ### 🛠️ Languages and Tools:
 <br/>
 <p align="left">
