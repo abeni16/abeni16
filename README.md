@@ -6,15 +6,16 @@
   <p align="center"></p>
 </div>
  
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abeni16&color=dc143c&style=for-the-badge" alt="abeni16" />
-  <a href="https://github.com/bernabasy?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abeni16?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+<p align="center">Connect with me</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
+    <img src="assets/LinkedIn.svg" alt="LinkedIn" width="10%" height="25px"/>
   </a>
-  <a href="https://github.com/abeni16?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abeni16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://x.com/abenezer_dev" target="_blank">
+    <img src="assets/Twitter.svg" alt="X" width="10%" height="25px"/>
   </a>
-</p>
+</div>
+
 
 ### About me  
 I'm Abenezer Asefa. A Full-Stack Developer.
