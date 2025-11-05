@@ -1,77 +1,79 @@
-### Hi 👋 I AM ABENZER ASEFA
+### Hi 👋 I’m Abenezer Asefa
 
 <div align="center">
-  <img src="assets/banner.png" alt="logo" width="80%"  height="auto" />
-  <br/>
-  <p align="center"></p>
+  <img src="assets/banner.png" alt="banner" width="80%" />
 </div>
- 
-<p align="center">Connect with me</p>
+
+---
+
+### 🌐 Connect with Me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
-    <img src="assets/LinkedIn.svg" alt="LinkedIn" width="10%" height="25px"/>
+  <a href="https://linkedin.com/in/abenezer-asefa" target="_blank">
+    <img src="assets/LinkedIn.svg" alt="LinkedIn" width="8%" height="25px"/>
   </a>
   <a href="https://x.com/abenezer_dev" target="_blank">
-    <img src="assets/Twitter.svg" alt="X" width="10%" height="25px"/>
+    <img src="assets/Twitter.svg" alt="X" width="8%" height="25px"/>
+  </a>
+  <a href="https://abenezer.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome" />
   </a>
 </div>
 
+---
 
-### About me  
-I'm Abenezer Asefa. A Full-Stack Developer.
+### 👨‍💻 About Me  
+I’m **Abenezer Asefa**, a passionate **Full-Stack Developer** with a focus on creating modern, scalable, and visually appealing applications.  
 
-🌱 I’m experienced in **Node.js**, **React**, **React Native**, **Next.js**, **Redux**, **API Integration**, **Webpack**, **ES6**, **JavaScript**, **MySQL**, **CSS**, and **HTML**.  
-⚡ Fun fact: I am also an animation maker.
+💡 **Core Strengths:**  
+- Building modern UIs with **React**, **React Native**, and **Next.js**  
+- Writing clean, optimized backend services in **Node.js**  
+- Integrating complex APIs with performance in mind  
+- Crafting interactive animations and intuitive user experiences  
 
-### 🛠️ Languages and Tools:
-<br/>
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
+⚡ **Fun fact:** I love blending creativity with logic — coding feels like making art!
+
+---
+
+### 🛠️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,js,ts,html,css,sass,redux,bootstrap,webpack,git,figma" />
 </p>
 
-## Things I am passionate about
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React Ecosystem
-- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> Next.js
-- <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> React Native
+---
 
-## ⚡ GitHub Stats
+### 💎 Things I’m Passionate About  
+- ⚛️ The **React Ecosystem**  
+- 🧭 Building cross-platform apps with **React Native**  
+- ⚙️ Developing full-stack systems using **Next.js** & **Node.js**  
 
-| | |
+---
+
+### 📊 GitHub Overview  
+
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni16&theme=radical) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abeni16&layout=compact&theme=radical) |
 |:---:|:---:|
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni16&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=abeni16&show_icons=true&locale=en&layout=compact&theme=radical) |
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abeni16&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=abeni16&show_icons=true&theme=radical) |  
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abeni16&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=abeni16&show_icons=true&theme=radical) |
+
+---
+
+### 🌈 Skill Radar Chart  
+
+> This radar chart visually represents your skill distribution.
+
+<p align="center">
+  <img src="https://github-profile-readme-generator.com/assets/radar.svg" width="400px" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+Check out my recent works on [**abenezer.site**](https://abenezer.site)  
+Some of my notable projects include:
+- 🏥 **Cheche** – Multi-tenant hospital management system  
+- 💸 **Niway** – Expense tracker app with SMS-based data sync  
+- 🕹️ **Trivia Game** – Multiplayer trivia built with React Native & WebSocket  
+
+---
+
+⭐️ *If you like my work, don’t forget to star my repositories!*  
