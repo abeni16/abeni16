@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Abenezer Asefa (Abi)
+# 👋 Hey there, I'm Abenezer Asefa (Beni)
 
 🚀 **Full Stack Developer | React & React Native Expert | Go & Node.js Backend Enthusiast**
 
