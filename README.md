@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I’m passionate about building reliable, user-foc
 
 ## 🧠 About Me
 - 💼 Developer at [Cheche](https://cheche.et)
-- 🏥 Working on a **Multi-Tenant Hospital Management System** for clinics and medical suppliers  
 - 🧩 Enjoys solving real-world problems through elegant code
 
 ---
