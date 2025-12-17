@@ -2,12 +2,13 @@
 
 🚀 **Full Stack Developer | React & React Native Expert | Go & Node.js Backend Enthusiast**
 
-Welcome to my GitHub profile! I’m passionate about building reliable, user-focused applications — from mobile apps to complex multi-tenant systems. I love exploring clean architecture, scalable design, and new technologies that make an impact.
+Welcome to my GitHub 👋
+I build software that’s meant to last — reliable, practical, and focused on real users. My work ranges from mobile apps to complex multi-tenant systems, and I enjoy turning messy requirements into clean, scalable solutions. I’m especially drawn to solid architecture, thoughtful design, and experimenting with technologies that actually solve problems (not just look cool). If it improves performance, clarity, or developer sanity, I’m interested.
 
 ---
 
 ## 🧠 About Me
-- 💼 Developer at [Cheche](https://cheche.et)
+- 💼 Lead Developer at [Cheche](https://cheche.et)
 - 🧩 Enjoys solving real-world problems through elegant code
 
 ---
@@ -28,7 +29,6 @@ Welcome to my GitHub profile! I’m passionate about building reliable, user-foc
 
 ## 📊 GitHub Stats
 
-![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abeni16&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abeni16&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abeni16&theme=tokyonight)
 
