@@ -9,7 +9,6 @@ I build software that's meant to last — reliable, practical, and focused on re
 
 ## 🧠 About Me
 
-- 💼 Lead Developer at [Cheche](https://cheche.et)
 - 🛢️ Creator of [VeloxDB](https://veloxdb.dev) — a desktop SQL client for PostgreSQL, MySQL & SQLite with a schema-aware AI copilot
 - 🧩 Enjoys solving real-world problems through elegant code
 
@@ -52,7 +51,7 @@ I build software that's meant to last — reliable, practical, and focused on re
 
 ## 🌐 Connect With Me
 
-- 🌍 Website: [abenezer.site](https://abenezer.site)
+- 🌍 Website: [abenezer.site](https://abenezer.et)
 - 🛢️ Project: [veloxdb.dev](https://veloxdb.dev)
 - ✉️ Email: [abenezerasefa1992@gmail.com](mailto:abenezerasefa1992@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/abenezer-asefa](https://linkedin.com/in/abenezer-asefa)
